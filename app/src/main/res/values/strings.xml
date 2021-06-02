@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Car Identifier</string>
+    <string name="identify_the_car_make">Identify the Car Make</string>
+    <string name="hints">Hints</string>
+    <string name="identify_the_car_image">Identify the Car Image</string>
+    <string name="advanced_level">Advanced Level</string>
+    <string name="car_image">car image</string>
+    <string name="identify">Identify</string>
+    <string name="random_images">random images</string>
+    <string name="next">NEXT</string>
+    <string name="submit">Submit</string>
+    <string name="enter_letter">Enter letter</string>
+    <string name="submit1">Submit</string>
+    <string name="enter_here">Enter here</string>
+    <string name="random_car_image">random car image</string>
+    <string name="points">POINTS -</string>
+    <string name="timer">00:00</string>
+
+    <string-array name="labels_array">
+        <item>No Select</item>
+        <item >BMW</item>
+        <item>Ferrari</item>
+        <item>Lamborghini</item>
+        <item>Jaguar</item>
+        <item>Tesla</item>
+        <item>Others</item>
+    </string-array>
+</resources>
